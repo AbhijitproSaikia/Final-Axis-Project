@@ -1,0 +1,531 @@
+[
+    {
+        "solId": "1831",
+        "failureCount": 0,
+        "blankEmailCount": 1,
+        "totalCount": 1,
+        "customers": [
+            {
+                "name": "Abot;JL[9",
+                "normalInterest": 687.35,
+                "failureReason": "Customer Email is Blank"
+            }
+        ]
+    },
+    {
+        "solId": "153",
+        "failureCount": 0,
+        "blankEmailCount": 1,
+        "totalCount": 1,
+        "customers": [
+            {
+                "name": "F^gM6oE:C{Z=nHZ1MNFVOln",
+                "normalInterest": null,
+                "failureReason": "Customer Email is Blank"
+            }
+        ]
+    },
+    {
+        "solId": "129",
+        "failureCount": 0,
+        "blankEmailCount": 1,
+        "totalCount": 1,
+        "customers": [
+            {
+                "name": "CZleFrI[l}MG]RTa|B;+Hfnm(",
+                "normalInterest": 0.0,
+                "failureReason": "Customer Email is Blank"
+            }
+        ]
+    },
+    {
+        "solId": "115",
+        "failureCount": 0,
+        "blankEmailCount": 1,
+        "totalCount": 1,
+        "customers": [
+            {
+                "name": "DZkg3yNe.%,?VElRK;:wLlki@5crJJ/H/YZZ",
+                "normalInterest": 0.0,
+                "failureReason": "Customer Email is Blank"
+            }
+        ]
+    },
+    {
+        "solId": "138",
+        "failureCount": 0,
+        "blankEmailCount": 1,
+        "totalCount": 1,
+        "customers": [
+            {
+                "name": "7^suEJEh4{Z9ZKXU|H>wVls^:s4wDN+I,\"eQ[:Jed",
+                "normalInterest": 284882.11,
+                "failureReason": "Customer Email is Blank"
+            }
+        ]
+    },
+    {
+        "solId": "1326",
+        "failureCount": 0,
+        "blankEmailCount": 1,
+        "totalCount": 1,
+        "customers": [
+            {
+                "name": ">ng@5|A`A&,Ck>edB9E",
+                "normalInterest": 116100.2,
+                "failureReason": "Customer Email is Blank"
+            }
+        ]
+    },
+    {
+        "solId": "3289",
+        "failureCount": 1,
+        "blankEmailCount": 0,
+        "totalCount": 1,
+        "customers": [
+            {
+                "name": "7buhIkRs.Rb=\\GT_|=6,FY~d6B%qzK980Gma",
+                "normalInterest": 476784.84,
+                "failureReason": "Technical Glitch"
+            }
+        ]
+    },
+    {
+        "solId": "814",
+        "failureCount": 0,
+        "blankEmailCount": 1,
+        "totalCount": 1,
+        "customers": [
+            {
+                "name": "I9o@? Nc9sWG]FT^J9",
+                "normalInterest": null,
+                "failureReason": "Customer Email is Blank"
+            }
+        ]
+    },
+    {
+        "solId": "5113",
+        "failureCount": 0,
+        "blankEmailCount": 4,
+        "totalCount": 4,
+        "customers": [
+            {
+                "name": "8fBc:oMc2",
+                "normalInterest": null,
+                "failureReason": "Customer Email is Blank"
+            },
+            {
+                "name": "Klm@4kL[7{,Da:fe|HH+#d~_",
+                "normalInterest": null,
+                "failureReason": "Customer Email is Blank"
+            },
+            {
+                "name": "ChteJJIh1(_HgBXd|HD YY~`f@-rDL/9",
+                "normalInterest": null,
+                "failureReason": "Customer Email is Blank"
+            },
+            {
+                "name": "Dki@;xDo@'^=ZL",
+                "normalInterest": null,
+                "failureReason": "Customer Email is Blank"
+            }
+        ]
+    },
+    {
+        "solId": "330",
+        "failureCount": 1,
+        "blankEmailCount": 0,
+        "totalCount": 1,
+        "customers": [
+            {
+                "name": "AZmaqpOi1R\\Fd=hTQK",
+                "normalInterest": 14176.44,
+                "failureReason": "Technical Glitch"
+            }
+        ]
+    },
+    {
+        "solId": "5098",
+        "failureCount": 0,
+        "blankEmailCount": 3,
+        "totalCount": 3,
+        "customers": [
+            {
+                "name": "Fkgc;mR[3',7dFc`K=@+V8si+=%EKN>t3V]",
+                "normalInterest": null,
+                "failureReason": "Customer Email is Blank"
+            },
+            {
+                "name": "8^utAwE]5RUBYNfeOA7*",
+                "normalInterest": null,
+                "failureReason": "Customer Email is Blank"
+            },
+            {
+                "name": ":rpaHkC:6!P=VxccFN3+H8vo+",
+                "normalInterest": null,
+                "failureReason": "Customer Email is Blank"
+            }
+        ]
+    },
+    {
+        "solId": "1394",
+        "failureCount": 0,
+        "blankEmailCount": 1,
+        "totalCount": 1,
+        "customers": [
+            {
+                "name": "8acr3~ e6&TCgFT]|K:wK",
+                "normalInterest": 243889.21,
+                "failureReason": "Customer Email is Blank"
+            }
+        ]
+    },
+    {
+        "solId": "3255",
+        "failureCount": 1,
+        "blankEmailCount": 0,
+        "totalCount": 1,
+        "customers": [
+            {
+                "name": "@cio>n q<%WG",
+                "normalInterest": 79777.28,
+                "failureReason": "Technical Glitch"
+            }
+        ]
+    },
+    {
+        "solId": "32",
+        "failureCount": 0,
+        "blankEmailCount": 1,
+        "totalCount": 1,
+        "customers": [
+            {
+                "name": "HZ{sq~E]5&QFkxccFN3+H8vd4=8j?",
+                "normalInterest": null,
+                "failureReason": "Customer Email is Blank"
+            }
+        ]
+    },
+    {
+        "solId": "3378",
+        "failureCount": 1,
+        "blankEmailCount": 0,
+        "totalCount": 1,
+        "customers": [
+            {
+                "name": "9agn6kY[1RSFVG\\eBKqVSjsq(H)EGA7>;G]",
+                "normalInterest": 13903.19,
+                "failureReason": "Technical Glitch"
+            }
+        ]
+    },
+    {
+        "solId": "316",
+        "failureCount": 2,
+        "blankEmailCount": 0,
+        "totalCount": 2,
+        "customers": [
+            {
+                "name": "J9p@;xT_?!MH^HaRI",
+                "normalInterest": 10193.66,
+                "failureReason": "Technical Glitch"
+            },
+            {
+                "name": "CZc@6 Ra.R^=X>3^FD>",
+                "normalInterest": 2368.09,
+                "failureReason": "Technical Glitch"
+            }
+        ]
+    },
+    {
+        "solId": "1009",
+        "failureCount": 0,
+        "blankEmailCount": 1,
+        "totalCount": 1,
+        "customers": [
+            {
+                "name": "7Zt@FoCb;{O5axfVON;yHkJC0B(n<!iE9KoIb6uli4I@8;",
+                "normalInterest": null,
+                "failureReason": "Customer Email is Blank"
+            }
+        ]
+    },
+    {
+        "solId": "3161",
+        "failureCount": 1,
+        "blankEmailCount": 0,
+        "totalCount": 1,
+        "customers": [
+            {
+                "name": "MbpsqsNn2%Z5iBb_>D",
+                "normalInterest": 53564.34,
+                "failureReason": "Technical Glitch"
+            }
+        ]
+    },
+    {
+        "solId": "3145",
+        "failureCount": 1,
+        "blankEmailCount": 0,
+        "totalCount": 1,
+        "customers": [
+            {
+                "name": "H9o@7xT_?#^=h>f",
+                "normalInterest": 70211.49,
+                "failureReason": "Technical Glitch"
+            }
+        ]
+    },
+    {
+        "solId": "324",
+        "failureCount": 1,
+        "blankEmailCount": 0,
+        "totalCount": 1,
+        "customers": [
+            {
+                "name": "BZms:kY:8!UH5BaUF9",
+                "normalInterest": 46469.75,
+                "failureReason": "Technical Glitch"
+            }
+        ]
+    },
+    {
+        "solId": "2238",
+        "failureCount": 0,
+        "blankEmailCount": 1,
+        "totalCount": 1,
+        "customers": [
+            {
+                "name": "HZpoqnEp6",
+                "normalInterest": 704.54,
+                "failureReason": "Customer Email is Blank"
+            }
+        ]
+    },
+    {
+        "solId": "30",
+        "failureCount": 0,
+        "blankEmailCount": 1,
+        "totalCount": 1,
+        "customers": [
+            {
+                "name": "A9da>k p6&TBjxeRGM",
+                "normalInterest": null,
+                "failureReason": "Customer Email is Blank"
+            }
+        ]
+    },
+    {
+        "solId": "3396",
+        "failureCount": 1,
+        "blankEmailCount": 0,
+        "totalCount": 1,
+        "customers": [
+            {
+                "name": "7igxq$Al;R\\Jix_eA&",
+                "normalInterest": 159587.28,
+                "failureReason": "Technical Glitch"
+            }
+        ]
+    },
+    {
+        "solId": "4313",
+        "failureCount": 0,
+        "blankEmailCount": 1,
+        "totalCount": 1,
+        "customers": [
+            {
+                "name": "@Zk@4rAq.!Usb:eSI=q$Lfom(@7",
+                "normalInterest": 0.0,
+                "failureReason": "Customer Email is Blank"
+            }
+        ]
+    },
+    {
+        "solId": "5147",
+        "failureCount": 0,
+        "blankEmailCount": 1,
+        "totalCount": 1,
+        "customers": [
+            {
+                "name": ";iktAwE:@,_HZFf1MNFVOln",
+                "normalInterest": null,
+                "failureReason": "Customer Email is Blank"
+            }
+        ]
+    },
+    {
+        "solId": "1662",
+        "failureCount": 0,
+        "blankEmailCount": 1,
+        "totalCount": 1,
+        "customers": [
+            {
+                "name": "Ia{a?JPf.&`=X",
+                "normalInterest": 0.0,
+                "failureReason": "Customer Email is Blank"
+            }
+        ]
+    },
+    {
+        "solId": "838",
+        "failureCount": 0,
+        "blankEmailCount": 1,
+        "totalCount": 1,
+        "customers": [
+            {
+                "name": "DZta6JR[:Rb9gFT",
+                "normalInterest": 0.0,
+                "failureReason": "Customer Email is Blank"
+            }
+        ]
+    },
+    {
+        "solId": "5124",
+        "failureCount": 0,
+        "blankEmailCount": 1,
+        "totalCount": 1,
+        "customers": [
+            {
+                "name": ":9xi<kY:=zMFb:3aSLq#W\\",
+                "normalInterest": null,
+                "failureReason": "Customer Email is Blank"
+            }
+        ]
+    },
+    {
+        "solId": "NFS003",
+        "failureCount": 0,
+        "blankEmailCount": 15,
+        "totalCount": 15,
+        "customers": [
+            {
+                "name": "Iacm4rU:1se5axTcV9",
+                "normalInterest": null,
+                "failureReason": "Customer Email is Blank"
+            },
+            {
+                "name": "IZeh;x \\5{Y55PTYRD7",
+                "normalInterest": null,
+                "failureReason": "Customer Email is Blank"
+            },
+            {
+                "name": "Ihdh3JJ[;{",
+                "normalInterest": null,
+                "failureReason": "Customer Email is Blank"
+            },
+            {
+                "name": "IpcrGz eB MF5ITe>F30Dc",
+                "normalInterest": null,
+                "failureReason": "Customer Email is Blank"
+            },
+            {
+                "name": "Ikkn;lAml&M<dH",
+                "normalInterest": null,
+                "failureReason": "Customer Email is Blank"
+            },
+            {
+                "name": "I9pa@nIh6",
+                "normalInterest": null,
+                "failureReason": "Customer Email is Blank"
+            },
+            {
+                "name": "IZpj;l eB MF5<[Y>LD D",
+                "normalInterest": null,
+                "failureReason": "Customer Email is Blank"
+            },
+            {
+                "name": "@Z{@>kL:0z[I]:a",
+                "normalInterest": null,
+                "failureReason": "Customer Email is Blank"
+            },
+            {
+                "name": "BZeh:kN\\.{",
+                "normalInterest": null,
+                "failureReason": "Customer Email is Blank"
+            },
+            {
+                "name": ">Zta4kI:8zM8^RT",
+                "normalInterest": null,
+                "failureReason": "Customer Email is Blank"
+            },
+            {
+                "name": "7icn3JPl.vT5c",
+                "normalInterest": null,
+                "failureReason": "Customer Email is Blank"
+            },
+            {
+                "name": "AZoa>JL[9sc5i",
+                "normalInterest": null,
+                "failureReason": "Customer Email is Blank"
+            },
+            {
+                "name": "IZvh;}H[lv,7",
+                "normalInterest": null,
+                "failureReason": "Customer Email is Blank"
+            },
+            {
+                "name": "IZvh;}H[lt,B",
+                "normalInterest": null,
+                "failureReason": "Customer Email is Blank"
+            },
+            {
+                "name": "9acn6|A\\5sZs`N`ROw5~Dfnm(J%sN@3",
+                "normalInterest": null,
+                "failureReason": "Customer Email is Blank"
+            }
+        ]
+    },
+    {
+        "solId": "109",
+        "failureCount": 0,
+        "blankEmailCount": 1,
+        "totalCount": 1,
+        "customers": [
+            {
+                "name": ":^xiEsNa5RYI`>fY",
+                "normalInterest": 664501.28,
+                "failureReason": "Customer Email is Blank"
+            }
+        ]
+    },
+    {
+        "solId": "139",
+        "failureCount": 0,
+        "blankEmailCount": 1,
+        "totalCount": 1,
+        "customers": [
+            {
+                "name": ">hve>JB[/,XCcx\\_Q=D%Dlsj550EKN>t3V]",
+                "normalInterest": 0.0,
+                "failureReason": "Customer Email is Blank"
+            }
+        ]
+    },
+    {
+        "solId": "4",
+        "failureCount": 0,
+        "blankEmailCount": 1,
+        "totalCount": 1,
+        "customers": [
+            {
+                "name": "MbnfDoD:.!`<dGl1C=D%Dfn`:",
+                "normalInterest": null,
+                "failureReason": "Customer Email is Blank"
+            }
+        ]
+    },
+    {
+        "solId": "5128",
+        "failureCount": 0,
+        "blankEmailCount": 1,
+        "totalCount": 1,
+        "customers": [
+            {
+                "name": "LfBs5sEh0w_",
+                "normalInterest": null,
+                "failureReason": "Customer Email is Blank"
+            }
+        ]
+    }
+]

@@ -1,0 +1,106 @@
+[
+    {
+        "cboSrmId": "116665",
+        "count": 1,
+        "customers": [
+            {
+                "name": "7buhIkRs.Rb=\\GT_|=6,FY~d6B%qzK980Gma",
+                "normalInterest": 476784.84,
+                "failureReason": "Technical Glitch"
+            }
+        ]
+    },
+    {
+        "cboSrmId": "64285",
+        "count": 1,
+        "customers": [
+            {
+                "name": "AZmaqpOi1R\\Fd=hTQK",
+                "normalInterest": 14176.44,
+                "failureReason": "Technical Glitch"
+            }
+        ]
+    },
+    {
+        "cboSrmId": "6612",
+        "count": 1,
+        "customers": [
+            {
+                "name": "9agn6kY[1RSFVG\\eBKqVSjsq(H)EGA7>;G]",
+                "normalInterest": 13903.19,
+                "failureReason": "Technical Glitch"
+            }
+        ]
+    },
+    {
+        "cboSrmId": "195917",
+        "count": 1,
+        "customers": [
+            {
+                "name": "BZms:kY:8!UH5BaUF9",
+                "normalInterest": 46469.75,
+                "failureReason": "Technical Glitch"
+            }
+        ]
+    },
+    {
+        "cboSrmId": "197653",
+        "count": 1,
+        "customers": [
+            {
+                "name": "7igxq$Al;R\\Jix_eA&",
+                "normalInterest": 159587.28,
+                "failureReason": "Technical Glitch"
+            }
+        ]
+    },
+    {
+        "cboSrmId": "156579",
+        "count": 2,
+        "customers": [
+            {
+                "name": "J9p@;xT_?!MH^HaRI",
+                "normalInterest": 10193.66,
+                "failureReason": "Technical Glitch"
+            },
+            {
+                "name": "CZc@6 Ra.R^=X>3^FD>",
+                "normalInterest": 2368.09,
+                "failureReason": "Technical Glitch"
+            }
+        ]
+    },
+    {
+        "cboSrmId": "17897",
+        "count": 1,
+        "customers": [
+            {
+                "name": "H9o@7xT_?#^=h>f",
+                "normalInterest": 70211.49,
+                "failureReason": "Technical Glitch"
+            }
+        ]
+    },
+    {
+        "cboSrmId": "50156",
+        "count": 1,
+        "customers": [
+            {
+                "name": "MbpsqsNn2%Z5iBb_>D",
+                "normalInterest": 53564.34,
+                "failureReason": "Technical Glitch"
+            }
+        ]
+    },
+    {
+        "cboSrmId": "43745",
+        "count": 1,
+        "customers": [
+            {
+                "name": "@cio>n q<%WG",
+                "normalInterest": 79777.28,
+                "failureReason": "Technical Glitch"
+            }
+        ]
+    }
+]
